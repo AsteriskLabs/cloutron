@@ -5,8 +5,6 @@ Cloutron is an extensible terminal UI for cloud-hackers. It allows you to attach
 
 Cloutron also provides a platform on which to build your own UI views, requesting and processing data from potentially any API to suit your own requirements. Cloutron is pretty much just a terrible hack and slash of the fantastic [Voltron](https://github.com/snare/voltron) tool from [@snare](https://twitter.com/snare). (He built an amazing tool, I raided his view / plugin / configuration functionality)
 
-![cloutron example](http://i.imgur.com/niDtVjN.png)
-
 Support
 -------
 
